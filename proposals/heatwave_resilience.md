@@ -1,7 +1,9 @@
 # HeatReady: Heatwave Preparedness and Response
 
 <!-- Describe the project in one sentence, e.g. A project that... -->
-The aim of the project is to develop tools that help residents and city administrations prepare for and respond to heatwaves through authoritative warnings, locally approved guidance, verified cooling resources and operational decision support.
+Heatwave warnings often tell communities that dangerous heat is approaching without helping residents or city administrators translate that warning into timely, local action. 
+This project proposes an AI-assisted heat-action service that combines authoritative warnings, weather forecasts, locally approved health guidance, verified cooling resources and neighborhood context. 
+It would help individuals decide how to protect themselves and others while helping cities determine when and where to activate cooling centres, outreach, transport, water distribution and longer-term heat-mitigation measures.
 
 <!-- Note: using reference-style links to let Jekyll's relative links
 convert them to .html in GitHub pages -->

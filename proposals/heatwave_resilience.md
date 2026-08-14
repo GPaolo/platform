@@ -151,6 +151,8 @@ List of needs:
 - OpenStreetMap: https://www.openstreetmap.org/copyright
     - Can help seed maps of public facilities, parks, drinking-water points and transit, but municipal verification is essential.
 - Web Content Accessibility Guidelines 2.2: https://www.w3.org/TR/WCAG22/
+- https://tree-map.nycgovparks.org/ Every tree in new york city is mapped and this data probably has some interesting uses for the cases of cooling. 
+    - It should be possible to do this for other cities through Satellite images
 
 ## Discussion
 

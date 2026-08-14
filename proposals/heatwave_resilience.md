@@ -153,6 +153,8 @@ List of needs:
 - Web Content Accessibility Guidelines 2.2: https://www.w3.org/TR/WCAG22/
 - https://tree-map.nycgovparks.org/ Every tree in new york city is mapped and this data probably has some interesting uses for the cases of cooling. 
     - It should be possible to do this for other cities through Satellite images
+    - https://senseable.mit.edu/treepedia
+    - https://github.com/OpenTreeMap/otm-core
 
 ## Discussion
 
